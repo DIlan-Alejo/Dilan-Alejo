@@ -1,1 +1,29 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for visiting</title>
+  <desc id="desc">A minimal dark footer with a softly animated violet-to-cyan line.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A3E635"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#8B5CF6" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="18" fill="#0B1020"/>
+  <rect x="0" y="0" width="1200" height="150" rx="18" fill="url(#fade)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#line)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="65" fill="#E2E8F0" font-size="22" font-weight="650">Thanks for stopping by.</text>
+    <text x="600" y="94" fill="#94A3B8" font-size="14">Gracias por visitar mi perfil · More projects coming soon / Más proyectos próximamente</text>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="180" cy="76" r="2.5" opacity=".65"><animate attributeName="opacity" values=".25;.8;.25" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="76" r="2.5" opacity=".65"><animate attributeName="opacity" values=".8;.25;.8" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
