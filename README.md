@@ -1,67 +1,134 @@
-<div align="center"><img src="./banner.svg" alt="Dilan Alejo — Robotics Engineering & Web Development" width="100%">
-<a href="https://github.com/DIlan-Alejo">
-  <img src="https://img.shields.io/badge/GitHub-Dilan--Alejo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<img src="https://img.shields.io/badge/Robotics-Engineering-8B5CF6?style=for-the-badge&logo=arduino&logoColor=white" alt="Robotics Engineering">
-<img src="https://img.shields.io/badge/Web_Development-Self--taught-22D3EE?style=for-the-badge&logo=code&logoColor=111827" alt="Web development">
-<img src="https://img.shields.io/badge/Bolivia-Santa_Cruz-A3E635?style=for-the-badge&logo=googlemaps&logoColor=111827" alt="Santa Cruz, Bolivia">
+<div align="center">
+  <img src="./banner.svg" alt="Dilan Alejo — Estudiante de Ingeniería en Robótica y desarrollo web autodidacta" width="100%">
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-estudiante-FF6B4A?style=flat-square&labelColor=0E1522&logo=arduino&logoColor=white" alt="Estudiante de Ingeniería en Robótica">
+  <img src="https://img.shields.io/badge/Santa_Cruz-Bolivia-35E0A1?style=flat-square&labelColor=0E1522&logo=googlemaps&logoColor=white" alt="Santa Cruz, Bolivia">
+  <img src="https://img.shields.io/badge/Aprendiendo-TypeScript-8B7CFF?style=flat-square&labelColor=0E1522&logo=typescript&logoColor=white" alt="Aprendiendo TypeScript">
+</div>
 
-Building, learning & experimenting — one project at a time.
-Construyendo, aprendiendo y experimentando — un proyecto a la vez.
-</div>01 — About me / Sobre mí
-EN — I'm a Robotics Engineering student from Santa Cruz, Bolivia, and a self-taught web developer. I enjoy learning by building, exploring how software and electronics work together, and turning ideas into practical projects.
+<p align="center"><i>Aprendo construyendo. Cada proyecto es una excusa para entender algo nuevo.</i></p>
 
-ES — Estudio Ingeniería en Robótica en Santa Cruz, Bolivia, y aprendo desarrollo web de forma autodidacta. Me gusta aprender construyendo, explorar la conexión entre software y electrónica, y convertir ideas en proyectos prácticos.
+---
 
-My previous hands-on work in construction, plumbing, painting, gardening, electrical tasks, customer service and pastry work has taught me to be adaptable, responsible and comfortable learning through practice.
-Mis experiencias prácticas en distintos oficios y atención al cliente me enseñaron a adaptarme, ser responsable y aprender haciendo.
-02 — What I'm exploring / En qué estoy aprendiendo
-- Web: HTML, CSS, JavaScript and TypeScript fundamentals.
-- Programming: strengthening my programming foundations.
-- Robotics: electronics, automation and the connection between hardware and software.
-- Tools: Git, GitHub and AI-assisted development workflows.
-I list technologies as part of my learning journey; this is not a claim of professional-level experience.
-Las tecnologías forman parte de mi proceso de aprendizaje; no representan necesariamente experiencia profesional.
+<img src="./assets/sec-01.svg" alt="01 — Sobre mí" width="100%">
 
-03 — Tech stack / Tecnologías
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,arduino&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Git, GitHub, VS Code and Arduino"></div>04 — Selected projects / Proyectos
-<table>
+No empecé en la programación. Empecé en una estación de servicio, en una pastelería y en obras de construcción. Después llegué a la universidad, a Ingeniería en Robótica, y encontré en el desarrollo web la forma de construir cosas sin depender de materiales.
+
+Hoy curso el segundo semestre en la **Universidad Gabriel René Moreno** (Santa Cruz, Bolivia) y aprendo desarrollo web por mi cuenta: HTML, CSS, JavaScript, TypeScript y todo lo que aparezca en el camino. Me interesa el punto exacto donde el software y el hardware se tocan — automatización, electrónica y la web como interfaz de todo eso.
+
+Trabajo tranquilo, pregunto cuando no sé y termino lo que empiezo. La mayor parte de lo que sé la aprendí haciendo.
+
+**Ahora mismo** · Segundo semestre de Ingeniería en Robótica · construyendo `nexus-gate` y `promptforge` · aprendiendo TypeScript, Next.js y Supabase.
+
+<img src="./assets/sec-02.svg" alt="02 — Tecnologías" width="100%">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,tailwind,supabase,prisma,git,github,vscode,arduino&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Node.js, Next.js, React, Tailwind, Supabase, Prisma, Git, GitHub, VS Code y Arduino">
+</div>
+
+- **Web** — HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend y datos** — Node.js, Prisma, Supabase
+- **Herramientas** — Git, GitHub, VS Code y flujos de desarrollo asistido por IA
+- **Hardware** — Arduino y electrónica básica
+- **Idiomas** — Español (nativo) · Inglés (básico) · Quechua (básico)
+
+<sub><i>Lo que aparece aquí forma parte de mi proceso de aprendizaje, no es una declaración de experiencia profesional.</i></sub>
+
+<img src="./assets/sec-03.svg" alt="03 — Proyectos" width="100%">
+
+<table cellspacing="0" cellpadding="4">
   <tr>
-    <td width="50%" valign="top">
-      <h3>⌘ <a href="https://github.com/dilanalejovargas358-blip/promptforge">promptforge</a></h3>
-      <p><b>EN:</b> A TypeScript project currently in development. Explore the repository for its current scope and progress.</p>
-      <p><b>ES:</b> Proyecto en TypeScript en desarrollo. Visita el repositorio para conocer su propósito y avances actuales.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/DIlan-Alejo/promptforge">
+        <img src="./assets/project-promptforge.svg" alt="promptforge" width="100%">
+      </a>
+      <sub><a href="https://promptforge-one-cyan.vercel.app">Demo en vivo</a> · <a href="https://github.com/DIlan-Alejo/promptforge">Código</a></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>◈ Personal portfolio / Portafolio personal</h3>
-      <p><b>EN:</b> A personal website to present my profile, experiments and projects. In progress.</p>
-      <p><b>ES:</b> Sitio personal para presentar mi perfil, experimentos y proyectos. En desarrollo.</p>
-      <img src="https://img.shields.io/badge/HTML_CSS_JS-E879F9?style=flat-square&logo=html5&logoColor=111827" alt="HTML, CSS and JavaScript">
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/DIlan-Alejo/nexus-gate">
+        <img src="./assets/project-nexus-gate.svg" alt="nexus-gate" width="100%">
+      </a>
+      <sub><a href="https://github.com/DIlan-Alejo/nexus-gate">Código</a></sub>
     </td>
   </tr>
-</table>More projects will appear here as I build and publish them. / Iré añadiendo proyectos a medida que los construya y publique.
-05 — GitHub activity / Actividad
-<div align="center"><a href="https://github.com/DIlan-Alejo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIlan-Alejo&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=22D3EE&text_color=CBD5E1&ring_color=A3E635&include_all_commits=true" alt="GitHub statistics for Dilan Alejo">
-</a>
-<a href="https://github.com/DIlan-Alejo">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIlan-Alejo&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=CBD5E1&langs_count=6" alt="Most used programming languages">
-</a></div>06 — Goals / Objetivos
-- Complete my Robotics Engineering degree. / Terminar Ingeniería en Robótica.
-- Build projects that connect programming, electronics and robotics. / Crear proyectos que unan programación, electrónica y robótica.
-- Keep improving through practical work and collaboration. / Seguir mejorando mediante la práctica y el trabajo en equipo.
-07 — Beyond the code / Más allá del código
-I value honesty, respect, responsibility, teamwork and continuous learning. Outside technology, I enjoy walking, exercising, videogames and discovering how things work.
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/DIlan-Alejo/cv-vitale">
+        <img src="./assets/project-cv-vitale.svg" alt="cv-vitale" width="100%">
+      </a>
+      <sub><a href="https://github.com/DIlan-Alejo/cv-vitale">Código</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/DIlan-Alejo/Dilan-Alejo">
+        <img src="./assets/project-perfil.svg" alt="Este perfil" width="100%">
+      </a>
+      <sub><a href="https://github.com/DIlan-Alejo/Dilan-Alejo">Código</a></sub>
+    </td>
+  </tr>
+</table>
 
-Valoro la honestidad, el respeto, la responsabilidad, el trabajo en equipo y el aprendizaje constante. Fuera de la tecnología, disfruto caminar, hacer ejercicio, los videojuegos y descubrir cómo funcionan las cosas.
-<div align="center">Let's connect / Conectemos
-<a href="https://github.com/DIlan-Alejo">
-  <img src="https://img.shields.io/badge/GitHub-Follow_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<!-- Optional: add a public professional email or LinkedIn URL when you are ready. -->
+<sub>También estoy construyendo <b>Lumicodo</b>, una página para aprender a programar desde cero con HTML, CSS y JavaScript. Muy pronto habrá más proyectos por aquí.</sub>
 
+<img src="./assets/sec-04.svg" alt="04 — Formación" width="100%">
 
-<img src="./footer.svg" alt="Thanks for visiting" width="100%"><sub>Designed with care · Made by Dilan Alejo</sub>
+**Formación**
+
+- **Ingeniería en Robótica** — Universidad Gabriel René Moreno · Santa Cruz, Bolivia · *2.º semestre, 2026*
+- **Técnico Operador en Computador** — CEPRO · Cochabamba, Bolivia · *titulado, 2025*
+- **Química Industrial** — Tecnológico Industrial Boliviano Canadiense · Cochabamba, Bolivia · *2 años cursados, 2024*
+- **Bachiller en Humanidades** — Colegio María Auxiliadora de Apote, El Paso · *2023*
+
+**Experiencia**
+
+- **Atención al cliente** — Surtidor Fortaleza E.S.A. · Cochabamba · *2024* — atención directa al público y apoyo en las operaciones diarias.
+- **Ayudante de pastelería** — Cochabamba · *2024* — preparación de masas, orden y limpieza del área de trabajo.
+- **Oficios y trabajo práctico** — construcción, plomería, pintura, jardinería, limpieza y electricidad · aprendizaje directo en distintos proyectos.
+
+**Logros**
+
+- Abanderado y diplomado de kínder a 6.º de primaria.
+- Campeón y subcampeón en torneos de fútbol.
+- Rendimiento académico constante durante toda la etapa escolar.
+
+**Formación complementaria**
+
+- Taller de robótica básica · cursos vocacionales · cursos de emprendimiento · cursos de liderazgo · taller de peluquería básica.
+
+<img src="./assets/sec-05.svg" alt="05 — Actividad en GitHub" width="100%">
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIlan-Alejo&theme=github_dark&bg_color=0E1522&border_color=1E2A3D&title_color=FF6B4A&text_color=C7D3E3&icon_color=8B7CFF" alt="Resumen de contribuciones de DIlan-Alejo" width="100%">
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=DIlan-Alejo&hide_border=true&background=0E1522&border=1E2A3D&stroke=1E2A3D&ring=FF6B4A&fire=FF6B4A&currStreakNum=E8EEF7&currStreakLabel=35E0A1&sideNums=E8EEF7&sideLabels=C7D3E3&dates=5F7189&card_width=440&disable_animations=true" alt="Racha de contribuciones de DIlan-Alejo">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DIlan-Alejo&theme=github_dark&bg_color=0E1522&border_color=1E2A3D&title_color=FF6B4A&text_color=C7D3E3&icon_color=8B7CFF" alt="Lenguajes con más commits de DIlan-Alejo">
+</div>
+
+<img src="./assets/sec-06.svg" alt="06 — Contacto" width="100%">
+
+<div align="center">
+  <a href="https://github.com/DIlan-Alejo">
+    <img src="https://img.shields.io/badge/GitHub-DIlan--Alejo-0E1522?style=for-the-badge&labelColor=FF6B4A&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-0E1522?style=for-the-badge&labelColor=8B7CFF&logo=gmail&logoColor=white" alt="Correo">
+  </a>
+</div>
+
+<!--
+  ✏️ QUÉ EDITAR ANTES DE PUBLICAR
+  1. Correo: reemplaza "tu-correo@ejemplo.com" (aparece 2 veces: en el href mailto y en el badge).
+     Para el badge, escribe tu correo en formato URL, por ejemplo: dilan%40gmail.com
+  2. Teléfono: no lo incluí por privacidad. Si quieres mostrarlo, agrega aquí debajo:
+     - 📞 +591 XXXXXXXX
+  3. Si Lumicodo ya tiene dominio, cámbialo por un enlace real.
+-->
+
+<p align="center"><sub><b>Valores</b> · honestidad · responsabilidad · respeto · solidaridad — <b>Fuera del código</b> · caminar, entrenar, videojuegos y estudiar</sub></p>
+
+<div align="center">
+  <img src="./footer.svg" alt="Gracias por pasar" width="100%">
 </div>
