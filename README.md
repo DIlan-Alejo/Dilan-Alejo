@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Dilan Alejo — Estudiante de Ingeniería en Robótica y desarrollo web autodidacta" width="100%">
+  <img src="./assets/hero.svg" alt="Dilan Alejo — Estudiante de Ingeniería en Robótica y desarrollo web autodidacta" width="100%">
 </div>
 
 <div align="center">
@@ -130,5 +130,5 @@ Trabajo tranquilo, pregunto cuando no sé y termino lo que empiezo. La mayor par
 <p align="center"><sub><b>Valores</b> · honestidad · responsabilidad · respeto · solidaridad — <b>Fuera del código</b> · caminar, entrenar, videojuegos y estudiar</sub></p>
 
 <div align="center">
-  <img src="./footer.svg" alt="Gracias por pasar" width="100%">
+  <img src="./assets/footer.svg" alt="Gracias por pasar" width="100%">
 </div>
